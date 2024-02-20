@@ -11,7 +11,8 @@ dateFormat = "2 January 2006"
 description = "Personal blog about life-related and development-related things."
 
 [author]
-links = [ { email = "mailto:hi@kahakai.me" }, { mastodon = "https://hachyderm.io/@kahakai" } ]
-image = "memoji-photo.png"
 name = "Artyom Nesterenko"
-bio = "A man in their mid-twenties, a geek, somewhat of a digital nomad. An active and versatile person with many different hobbies and interests. Software Engineer, who is paving the way into backend development with Go and Elixir. I use Neovim btw. In love with exploring the world. You live only once. Live your life to the fullest."
+image = "memoji-photo.png"
+headline = "I'm a geek, a digital nomad, a software engineer, and an active and versatile person with many different hobbies and interests.<br />In love with exploring the world. You live only once. Live your life to the fullest."
+bio = "Software Engineer with 6.5+ years of experience, mostly in mobile native app development, who is paving the way into backend development with Go and Elixir.<br />I use Neovim btw."
+links = [ { email = "mailto:hi@kahakai.me" }, { mastodon = "https://hachyderm.io/@kahakai" } ]
