@@ -8,3 +8,10 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
+description = "Personal blog about life-related and development-related things."
+
+[author]
+links = [ { email = "mailto:hi@kahakai.me" }, { mastodon = "https://hachyderm.io/@kahakai" } ]
+image = "memoji-photo.png"
+name = "Artyom Nesterenko"
+bio = "A man in their mid-twenties, a geek, somewhat of a digital nomad. An active and versatile person with many different hobbies and interests. Software Engineer, who is paving the way into backend development with Go and Elixir. I use Neovim btw. In love with exploring the world. You live only once. Live your life to the fullest."
