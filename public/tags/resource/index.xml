@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resource on kahakai</title>
+    <link>http://localhost:1313/tags/resource/</link>
+    <description>Recent content in Resource on kahakai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Artyom Nesterenko</copyright>
+    <lastBuildDate>Tue, 27 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/resource/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Talks</title>
+      <link>http://localhost:1313/talks/</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/</guid>
+      <description>Speaker # Android Academy Jetpack Compose 2023 Announcement (Android Academy Global, Feb 2023): video Leveraging The Native Side of React Native (Loóna Talks: React Native, May 2022): slides, video Android Academy Fundamentals #11 - Animations (Android Academy Global, Feb 2021): slides, video Android Academy Fundamentals #7 - Networking (Android Academy Global, Dec 2020): slides, video Android 11 #5: Easing In and Out with Jetpack Compose (Android 11 Updates, Sep 2020): slides, video Introduction to Kotlin (Java course in BSU, Nov 2019): slides Android Academy Minsk Fundamentals #8 - Networking (Android Academy Minsk, Oct 2019): slides, video Android Navigation component спешит на помощь (GDG Minsk Meetup, Oct 2019): slides, video Podcasts # Spring Break.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
