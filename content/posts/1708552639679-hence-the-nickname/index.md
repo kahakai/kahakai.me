@@ -2,11 +2,11 @@
 title: "Hence the nickname"
 date: 2024-02-21
 draft: false
-description: "Why does the blog has such an unusual name?"
+description: "Why does the blog have such an unusual name?"
 tags: ["thought"]
 ---
 
-What does kahakai mean? Why does the blog has such an unusual name?
+What does kahakai mean? Why does the blog have such an unusual name?
 
 kahakai is my nickname that I've come up with after realising I'm starting a new chapter of my life with the new values, principles, and focus. First, I used it on the Fediverse to see how it goes, and I think after several month I like it and feel like sticking to it.
 
