@@ -1,11 +1,17 @@
 [[main]]
+name = "About"
+pageRef = "about"
+identifier = "VrckCqwRnh"
+weight = 1
+
+[[main]]
 name = "Blog"
 pageRef = "posts"
 identifier = "2o41MI2Xpr"
-weight = 1
+weight = 2
 
 [[main]]
 name = "Talks"
 pageRef = "talks"
 identifier = "MQQRcVYYar"
-weight = 2
+weight = 3

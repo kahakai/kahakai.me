@@ -13,8 +13,8 @@ description = "Personal blog about life-related and development-related things."
 [author]
 name = "Artyom Nesterenko"
 image = "memoji-photo.png"
-headline = "I'm a geek, a digital nomad, a surfer, a software engineer, a community organiser, a public speaker, and an active and versatile person with many different hobbies and interests.<br />In love with exploring the world. You live only once. Live your life to the fullest."
-bio = "Software Engineer with 6.5+ years of experience, mostly in mobile native app development, who is paving the way into backend development with Go and Elixir.<br />I use Neovim btw."
+headline = "Digital Nomad | Surfer | Software Engineer<br />In love with exploring the world.<br />You live only once.<br />Live your life to the fullest."
+bio = "Software Engineer with 6.5+ years of experience, mostly in mobile native app development, who is working hard to transition to backend development with Go and Elixir.<br />I use Neovim btw."
 links = [
   { github = "https://github.com/kahakai" },
   { mastodon = "https://hachyderm.io/@kahakai" },
