@@ -1,21 +1,12 @@
-# -- Site Configuration --
-# Refer to the theme docs for more details about each of these parameters.
-# https://blowfish.page/docs/getting-started/
-
-theme = "blowfish"
 baseURL = "https://kahakai.me/"
+copyright = "Artyom Nesterenko (CC BY 4.0)"
 defaultContentLanguage = "en"
-
-# pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
+theme = "hugo-bearcub"
 
 enableRobotsTXT = true
-paginate = 10
-summaryLength = 0
 
 buildDrafts = false
 buildFuture = false
-
-# googleAnalytics = "G-XXXXXXXXX"
 
 [imaging]
   anchor = 'Center'

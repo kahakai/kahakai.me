@@ -1,22 +1,11 @@
 languageCode = "en"
 languageName = "English"
-weight = 1
 title = "kahakai"
+weight = 1
 
 [params]
 displayName = "EN"
 isoCode = "en"
 rtl = false
-dateFormat = "2 January 2006"
 description = "Personal blog about life-related and development-related things."
-
-[author]
-name = "Artyom Nesterenko"
-image = "memoji-photo.png"
-headline = "Digital Nomad | Surfer | Software Engineer<br />In love with exploring the world.<br />You live only once.<br />Live your life to the fullest."
-bio = "Software Engineer with 6.5+ years of experience, mostly in mobile native app development, who is working hard to transition to backend development with Go and Elixir.<br />I use Neovim btw."
-links = [
-  { github = "https://github.com/kahakai" },
-  { mastodon = "https://hachyderm.io/@kahakai" },
-  { email = "mailto:hi@kahakai.me" },
-]
+madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
