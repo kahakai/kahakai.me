@@ -8,10 +8,12 @@ tags: ["resource"]
 
 I’m Artyom, or Arty, and I'm a geek, a digital nomad, a surfer, a software engineer, a community organizer, a public speaker, and the list can go on.
 
-I'm a Software Engineer with 6.5+ years of experience, mostly in mobile native app development, who is working hard to transition to backend development with Go and Elixir.
+Over my career, I've always been a generalist: I worked as an Android developer, as an iOS developer, as a backend engineer, sometimes all of those at the same time.
+
+I strive to use the best tools for the job, whatever they may be. If I need to learn a new language, I'll learn a new language; if I need to understand a new paradigm, I will, and I will do it fast. I have broad experience with different languages, frameworks, libraries, methodologies, tools.
+
+I'm highly adaptable, passionate about technology, dedicated to work I do, and I excel at communicating with both developers from the team I’m in and other teams.
+
+Today I’m looking for an opportunity as a Software Engineer in backend specialized in Go and Elixir to make a transition from mobile app development to backend development. I have about 2 years of non-professional Go experience and about 1 year of non-professional Elixir experience, and I’m open to considering any opportunity that will allow me to deepen the knowledge.
 
 I use Neovim btw.
-
-I have about 2 years of non-professional Go experience and about 1 year of non-professional Elixir experience, and I’m open to considering any opportunity that will allow me to gain professional experience in this direction and deepen the knowledge. Suggestions of a part-time job or (paid) internships are also welcome!
-
-I will be happy to discuss any details and tell you more about myself.
