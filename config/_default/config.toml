@@ -1,5 +1,5 @@
 baseURL = "https://kahakai.me/"
-copyright = "Artyom Nesterenko (CC BY 4.0)"
+copyright = "Artyom Nesterenko (CC BY-NC 4.0)"
 defaultContentLanguage = "en"
 theme = "hugo-bearcub"
 
