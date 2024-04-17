@@ -14,6 +14,6 @@ I strive to use the best tools for the job, whatever they may be. If I need to l
 
 I'm highly adaptable, passionate about technology, dedicated to work I do, and I excel at communicating with both developers from the team I’m in and other teams.
 
-Today I’m looking for an opportunity as a Software Engineer in backend specialized in Go and Elixir to make a transition from mobile app development to backend development. I have about 2 years of non-professional Go experience and about 1 year of non-professional Elixir experience, and I’m open to considering any opportunity that will allow me to deepen the knowledge.
+Today I’m looking for an opportunity as a Software Engineer in backend to make a transition from mobile app development to backend development. Recent experience includes 2 years of professional Python experience, about 2 years of non-professional Go experience, and 1 year of non-professional Elixir experience, and I’m open to considering any opportunity that will allow me to deepen the knowledge with backend technologies.
 
 I use Neovim btw.
