@@ -2,7 +2,7 @@ Digital Nomad | Surfer | Software Engineer
 
 In love with exploring the world.
 
-You live only once.
+You only live once.
 
 Live your life to the fullest.
 
