@@ -22,6 +22,7 @@ title = 'Awesome Belarusian'
 - https://knihauka.com/
 - https://slowianka.edu.pl/knihi/
 - https://www.instagram.com/thekrama.store/
+- https://audiobooks.by/
 - https://knizhnyvoz.com/
 
 ## Dictionaries
@@ -34,6 +35,7 @@ title = 'Awesome Belarusian'
 ## Movies
 
 - https://znichka.space/
+- https://anibel.net/
 
 ## Podcasts
 
@@ -41,5 +43,6 @@ title = 'Awesome Belarusian'
 
 ## Poetry
 
+- https://litradio.link/
 - https://rasciajenne.com/
 - http://fihury.org/
