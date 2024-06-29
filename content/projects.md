@@ -6,4 +6,8 @@ tags = ['resource']
 title = 'Projects'
 +++
 
+- [To-Do List]({{< ref "/projects/to-do-list" >}})
+- [Simple Bank]({{< ref "/projects/simple-bank" >}})
+- [TimeZoneSyncBot]({{< ref "/projects/time-zone-sync-bot" >}})
+- [Series Tracker]({{< ref "/projects/series-tracker" >}})
 - [Awesome Belarusian]({{< ref "/projects/awesome-belarusian" >}})
