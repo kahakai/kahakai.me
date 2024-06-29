@@ -10,9 +10,9 @@ For a lot of people loneliness sounds like a nightmare, something so bad they wa
 
 I grew up in a small family, basically dad, mum, and me. We had some relatives, but I don't really count them here. I think that experience is not so common even for Eastern European countries where we tend to have small families with one or two kids.
 
-Now on the reflection I can think that the way it was and it is has shaped me and influenced me much to the point that from time to time it becomes difficult for me to understand how others can't imagine their lives only in a pair or without anyone around who has been around since their childhood or adolescence.
+Now on the reflection I can think that the way it was and it is has shaped me and influenced me much to the point that from time to time it becomes difficult for me to understand how others cannot imagine their lives without always being a couple with someone or without anyone by them who has been around since their childhood or adolescence.
 
-I don't really care because it became almost so natural to me to love myself and time spent with myself only, but the more I think about it the more I like the path I have and somehow managed to choose without choosing anything, at least from what I think and feel to myself, which is probably not like this looking from perspective.
+I don't really care because it became almost so natural to me to love myself and time spent with myself only, but the more I think about it the more I like the path I have and somehow managed to choose without choosing anything, at least from what I think and feel to myself, which probably doesn't look like this from a perspective.
 
 I remember myself wanting to get this experience of moving to a new country to live in a new place where I don't have any connections, anyone whom I know, no even distant relatives, no friends to be completely alone (which is not bad), to be on my own to feel the life, because I believed and still believe after almost 3 years of this that may be this is the only way to have opportunity and time to deeply understand yourself, what you have, what are you values, what are you principles, and what you can do and deserve.
 
