@@ -61,4 +61,4 @@ Without any criticism, I just know it from myself and my friends, so I wrote the
 I moved completely alone, there is no one here and I don’t know anyone (I didn’t know anyone when I moved). After a couple of months of getting used to it, exploring different places in the country and activities that became interesting to me, there are a bunch of multilingual acquaintances in different cities, a couple of new friends and a couple of joint communities for activities, including among the Portuguese. I even found a close person. It’s been a year since I moved Portugal, and I don’t experience any problems with loneliness.
 And this is even without Russian-speaking communities.
 
-It may seem silly, but be happy! Anyone deserves to be. Enjoy life! Anyone feel the positive vibes and everything else will come by itself.
+It may seem silly, but be happy! Anyone deserves to be. Enjoy life! Think positive, be grateful for what you have, feel the vibes, and everything else will come by itself.
