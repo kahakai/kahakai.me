@@ -1,4 +1,4 @@
-Digital Nomad | Surfer | Software Engineer
+Surfer | Digital Nomad | Software Engineer
 
 In love with exploring the world.
 
