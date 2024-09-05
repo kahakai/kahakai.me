@@ -40,6 +40,7 @@ title = 'Awesome Belarusian'
 ## Podcasts
 
 - https://belaruspodcasthub.com/
+- https://www.vandra.by/
 
 ## Poetry
 
