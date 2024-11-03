@@ -45,5 +45,6 @@ title = 'Awesome Belarusian'
 ## Poetry
 
 - https://litradio.link/
+- https://stihi.by/
 - https://rasciajenne.com/
 - http://fihury.org/
