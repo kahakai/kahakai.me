@@ -12,6 +12,7 @@ title = 'Awesome Belarusian'
 
 ## Books
 
+- https://penbelarus.org/
 - https://gutenbergpublisher.eu/
 - https://kamunikat.org/
 - https://byprosvet.org/
