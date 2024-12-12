@@ -28,9 +28,10 @@ title = 'Awesome Belarusian'
 
 ## Dictionaries
 
-- https://www.skarnik.by/
 - https://verbum.by/
 - https://slounik.org/
+- https://bydialects.org/
+- https://www.skarnik.by/
 - https://starnik.by/
 
 ## Movies
