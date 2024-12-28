@@ -29,6 +29,7 @@ title = 'Awesome Belarusian'
 ## Culture
 
 - https://tradycyja.com/
+- https://maldzis.world/
 
 ## Dictionaries
 
