@@ -6,6 +6,8 @@ tags = ['resource']
 title = 'Awesome Belarusian'
 +++
 
+- [Belarusian Grammar Rules](https://knihi.com/storage/pravapis2005.html)
+
 ## Blogs
 
 - https://sojka.io/
