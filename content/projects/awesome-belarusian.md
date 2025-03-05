@@ -17,6 +17,7 @@ title = 'Awesome Belarusian'
 - https://penbelarus.org/
 - https://gutenbergpublisher.eu/
 - https://kamunikat.org/
+- https://bellit.store/
 - https://byprosvet.org/
 - https://sovabooks.pl/
 - https://alfavit.eu/
