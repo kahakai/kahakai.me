@@ -45,8 +45,10 @@ title = 'Awesome Belarusian'
 
 ## Movies
 
-- https://znichka.space/
+- https://kinakipa.site/
+- https://screenka.com/
 - https://anibel.net/
+- https://kaviarnia.com/
 
 ## Podcasts
 
