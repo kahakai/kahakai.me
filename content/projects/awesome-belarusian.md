@@ -37,11 +37,12 @@ title = 'Awesome Belarusian'
 
 ## Dictionaries
 
-- https://verbum.by/
 - https://slounik.org/
-- https://bydialects.org/
+- https://antykalka.org/
+- https://verbum.by/
 - https://www.skarnik.by/
 - https://starnik.by/
+- https://bydialects.org/
 
 ## Movies
 
