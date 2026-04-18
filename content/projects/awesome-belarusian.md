@@ -52,6 +52,10 @@ title = 'Awesome Belarusian'
 - https://anibel.net/
 - https://kaviarnia.com/
 
+## News
+
+- https://novychas.online/
+
 ## Podcasts
 
 - https://belaruspodcasthub.com/
