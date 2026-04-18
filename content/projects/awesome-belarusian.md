@@ -31,6 +31,7 @@ title = 'Awesome Belarusian'
 
 ## Culture
 
+- https://budzma.org/
 - https://tradycyja.com/
 - https://maldzis.world/
 - https://domtvorcau.com/
