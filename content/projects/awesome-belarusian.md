@@ -67,3 +67,7 @@ title = 'Awesome Belarusian'
 - https://stihi.by/
 - https://rasciajenne.com/
 - http://fihury.org/
+
+## Science
+
+- https://scholarsforbelarus.org/
