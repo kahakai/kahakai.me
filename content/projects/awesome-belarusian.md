@@ -8,6 +8,10 @@ title = 'Awesome Belarusian'
 
 - [Belarusian Grammar Rules](https://knihi.com/storage/pravapis2005.html)
 
+## Art
+
+- https://chrysalismag.org/
+
 ## Blogs
 
 - https://sojka.io/
