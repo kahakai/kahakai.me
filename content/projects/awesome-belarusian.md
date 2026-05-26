@@ -47,6 +47,7 @@ title = 'Awesome Belarusian'
 - https://verbum.by/
 - https://www.skarnik.by/
 - https://starnik.by/
+- https://drukarnik.app/
 - https://bydialects.org/
 - https://www.bielmova.org/
 - https://belazar.info/belsoft/compdict.php
