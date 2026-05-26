@@ -48,6 +48,7 @@ title = 'Awesome Belarusian'
 - https://www.skarnik.by/
 - https://starnik.by/
 - https://bydialects.org/
+- https://www.bielmova.org/
 
 ## Movies
 
