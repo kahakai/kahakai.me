@@ -49,6 +49,7 @@ title = 'Awesome Belarusian'
 - https://starnik.by/
 - https://bydialects.org/
 - https://www.bielmova.org/
+- https://belazar.info/belsoft/compdict.php
 
 ## Movies
 
