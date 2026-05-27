@@ -39,6 +39,7 @@ title = 'Awesome Belarusian'
 - https://tradycyja.com/
 - https://maldzis.world/
 - https://domtvorcau.com/
+- https://wir.by/
 
 ## Dictionaries
 
